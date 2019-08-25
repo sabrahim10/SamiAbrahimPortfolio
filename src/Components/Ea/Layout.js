@@ -15,7 +15,7 @@ const Wrapper = styled.div`
 
 const Projects = [
   {
-    title: 'Information Systems and Technology Mentoring Club',
+    title: 'IST Mentoring Club',
     description:
       'Serving as the Treasurer of the club, Manage the budget and make sure money is being spent well throughout the organization. Organize events about uprising technologies and have guest speakers from different companies speak. '
   },
