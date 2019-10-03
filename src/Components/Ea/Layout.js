@@ -20,7 +20,7 @@ const Projects = [
       'Serving as the Treasurer of the club, Manage the budget and make sure money is being spent well throughout the organization. Organize events about uprising technologies and have guest speakers from different companies speak. '
   },
   {
-    title: 'Inter Fraternal Council ',
+    title: 'Inter Fraternal Council',
     description:
       'Served as the Chief Marketing Officer in 2018. Develop and execute public relations and social media strategy. Collect and report member fraternity community service hours, philanthropic dollars, and activities.'
   },
